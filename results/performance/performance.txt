@@ -1,0 +1,15 @@
+IP Camera Live Inference
+========================================
+
+Source Type      : IP Camera
+Stream Protocol  : HTTP (MJPEG)
+Stream URL       : http://192.168.18.173:8080/video
+
+Resolution       : 1920 x 1080
+Average FPS      : 3.31
+Average Latency  : 272.57 ms
+Throughput       : 3.31 FPS
+
+Notes:
+- Live inference performed successfully.
+- Automatic reconnection initiated on stream interruption.
